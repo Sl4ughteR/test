@@ -1,7 +1,7 @@
-Hello my first test !
+1.Hello my first test !
 
-My 1st commit
+2.My 1st commit
 
-My name is Angel!
+3.My name is Angel!
 
-conflict add 2
+4.Conflict add !
