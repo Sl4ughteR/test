@@ -3,3 +3,5 @@ Hello my first test !
 My 1st commit
 
 My name is Angel!
+
+conflict add 2
